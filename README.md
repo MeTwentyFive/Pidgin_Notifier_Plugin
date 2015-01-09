@@ -13,6 +13,6 @@ This plugin also will only notify when it's a NOTICE from the server and not jus
 
 ##Installation##
 
-Copy notifier.dll into your pigdin plugins dir(default is %APPDATA%/.purple/plugins
+Copy notifier.dll into your pigdin plugins dir(default is %APPDATA%/.purple/plugins)
 
 
