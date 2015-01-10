@@ -268,10 +268,10 @@ static PurplePluginInfo info = {
     "core-notifier",
     "Notifier",
     DISPLAY_VERSION, //This constant is defined in config.h, but you shouldn't use it for your own plugins.  We use it here because it's our plugin. And we're lazy.
-    "Notifies the user of server notifications",
-    "Notifies the user of notices and when people mention their name.",
+    "Notifies the user of server NOTICEs.",
+    "Notifies the user of server NOTICEs.",
     "Christopher E. Winton <GitHubDevSpam@winton.cc>",
-    "http://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "http://github.com/MeTwentyFive/Pidgin_Notifier_Plugin",
 
 
     plugin_load,
